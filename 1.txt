@@ -1,0 +1,13 @@
+Companyname搜索Company_name flags.m4 generated-configure.sh修改实现更改发布文件的作者和公司
+修改icon文件awt.ico
+
+修改Option.java以实现修改Javac
+修改Version.java.template实现修改java
+
+修改Version.txt
+修改spec.gmk.in实现修改公司和发行
+
+GalaxyEmotion Standard Edition
+Howxu Technologies Studio
+
+Versions.number
